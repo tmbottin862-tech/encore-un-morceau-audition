@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prevention-audition.onrender.com/sitemap.xml
